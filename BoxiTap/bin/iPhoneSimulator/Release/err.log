@@ -1,0 +1,39 @@
+2016-05-27 11:19:30.145 BoxiTap[2310:9745051] ca-app-pub-2567840683321784/4129068151
+2016-05-27 11:19:30.271 BoxiTap[2310:9745094] <Google> To get test ads on this device, call: request.testDevices = @[ kGADSimulatorID ];
+2016-05-27 11:19:30.296 BoxiTap[2310:9745051] scale: 1 j: 667
+2016-05-27 11:19:30.300 BoxiTap[2310:9745051] HelveticaNeue-Regular
+2016-05-27 11:19:30.332 BoxiTap[2310:9745051] Error loading /System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib:  dlopen(/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib, 262): no suitable image found.  Did find:
+	/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib: mach-o, but not built for iOS simulator
+2016-05-27 11:19:30.332 BoxiTap[2310:9745051] Cannot find function pointer IOHIDLibFactory for factory 13AA9C44-6F1B-11D4-907C-0005028F18D5 in CFBundle/CFPlugIn 0x7d35f8a0 </System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin> (bundle, not loaded)
+2016-05-27 11:19:30.333 BoxiTap[2310:9745051] Error loading /System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib:  dlopen(/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib, 262): no suitable image found.  Did find:
+	/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib: mach-o, but not built for iOS simulator
+2016-05-27 11:19:30.333 BoxiTap[2310:9745051] Cannot find function pointer IOHIDLibFactory for factory 13AA9C44-6F1B-11D4-907C-0005028F18D5 in CFBundle/CFPlugIn 0x7d35f8a0 </System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin> (bundle, not loaded)
+2016-05-27 11:19:30.333 BoxiTap[2310:9745051] Error loading /System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib:  dlopen(/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib, 262): no suitable image found.  Did find:
+	/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib: mach-o, but not built for iOS simulator
+2016-05-27 11:19:30.333 BoxiTap[2310:9745051] Cannot find function pointer IOHIDLibFactory for factory 13AA9C44-6F1B-11D4-907C-0005028F18D5 in CFBundle/CFPlugIn 0x7d35f8a0 </System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin> (bundle, not loaded)
+2016-05-27 11:19:30.334 BoxiTap[2310:9745051] Error loading /System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib:  dlopen(/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib, 262): no suitable image found.  Did find:
+	/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib: mach-o, but not built for iOS simulator
+2016-05-27 11:19:30.334 BoxiTap[2310:9745051] Cannot find function pointer IOHIDLibFactory for factory 13AA9C44-6F1B-11D4-907C-0005028F18D5 in CFBundle/CFPlugIn 0x7d35f8a0 </System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin> (bundle, not loaded)
+2016-05-27 11:19:30.334 BoxiTap[2310:9745051] Error loading /System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib:  dlopen(/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib, 262): no suitable image found.  Did find:
+	/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin/Contents/MacOS/IOHIDLib: mach-o, but not built for iOS simulator
+2016-05-27 11:19:30.334 BoxiTap[2310:9745051] Cannot find function pointer IOHIDLibFactory for factory 13AA9C44-6F1B-11D4-907C-0005028F18D5 in CFBundle/CFPlugIn 0x7d35f8a0 </System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDLib.plugin> (bundle, not loaded)
+2016-05-27 11:19:32.165 BoxiTap[2310:9745084] <Google> Invalid Request: {
+    "activation_overlay_url" = "http://googleads.g.doubleclick.net/mads/static/activation_overlay.html?hl=en";
+    "base_uri" = "https:";
+    "drt_include" = 0;
+    "enable_auto_click_protection" = 1;
+    errors = "Cannot determine request type. Is your ad unit id correct?";
+    "google.afma.Notify_dt" = 1464333572137;
+    "pan_include" = 0;
+    "request_id" = 1;
+    "request_scenario" = "online_request";
+    type = unknown;
+    "use_webview_loadurl" = 0;
+}
+2016-05-27 11:19:32.168 BoxiTap[2310:9745084] <Google:HTML> You are currently using version 7.6.0 of the SDK. Please consider updating your SDK to the most recent SDK version to get the latest features and bug fixes. The latest SDK can be downloaded from http://goo.gl/iGzfsP. A full list of release notes is available at https://developers.google.com/admob/ios/rel-notes.
+2016-05-27 11:19:47.651 BoxiTap[2310:9745051] scale: 1 j: 667
+2016-05-27 11:19:47.651 BoxiTap[2310:9745051] HelveticaNeue-Regular
+2016-05-27 11:19:55.913 BoxiTap[2310:9745051] scale: 1 j: 667
+2016-05-27 11:19:55.913 BoxiTap[2310:9745051] HelveticaNeue-Regular
+2016-05-27 11:20:08.948 BoxiTap[2310:9745051] scale: 1 j: 667
+2016-05-27 11:20:08.949 BoxiTap[2310:9745051] HelveticaNeue-Regular

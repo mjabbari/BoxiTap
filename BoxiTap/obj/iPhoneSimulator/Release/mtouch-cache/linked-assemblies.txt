@@ -1,0 +1,7 @@
+/Users/MaX/Projects/BoxiTap/BoxiTap/obj/iPhoneSimulator/Release/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/MaX/Projects/BoxiTap/BoxiTap/obj/iPhoneSimulator/Release/mtouch-cache/Link/BoxiTap.exe
+/Users/MaX/Projects/BoxiTap/BoxiTap/obj/iPhoneSimulator/Release/mtouch-cache/Link/ViewShaker.Unified.dll
+/Users/MaX/Projects/BoxiTap/BoxiTap/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.dll
+/Users/MaX/Projects/BoxiTap/BoxiTap/obj/iPhoneSimulator/Release/mtouch-cache/Link/mscorlib.dll
+/Users/MaX/Projects/BoxiTap/BoxiTap/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.Core.dll
+/Users/MaX/Projects/BoxiTap/BoxiTap/obj/iPhoneSimulator/Release/mtouch-cache/Link/Google.MobileAds.dll
