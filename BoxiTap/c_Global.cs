@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using UIKit;
 using GameKit;
 using Foundation;
@@ -14,7 +14,7 @@ namespace BoxiTap
 		public static bool IAPisPurchased;
 		public static bool MusicOn ;
 		public static bool SoundOn ;
-
+//sample
 		public static UIColor color1 = UIColor.FromRGB(0,151,167);
 		public static UIColor color2 = UIColor.FromRGB(255,167,38);
 		public static UIColor color3 = UIColor.FromRGB(96,125,139);
